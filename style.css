@@ -1,0 +1,355 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    color: white;
+    position: sticky;
+    display: flex;
+    padding: 20px 30px;
+}
+
+.btn {
+    top: left 0px;
+}
+
+.col-left {
+    background-color: #30872a;
+    color: white;
+    height: 400px;
+    padding: 0;
+}
+
+.col-right {
+    background-color: #111111;
+    color: white;
+    height: 400px;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+.carousel-item>h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.carousel-item>img {
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.carousel-item>em {
+    font-weight: bold;
+}
+
+.container-end {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 300px;
+    padding: 40px 40px 40px 40px;
+
+}
+
+.card {
+    height: 100%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 80%;
+}
+
+.backtop {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+
+body {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.container {
+    background-color: #000000;
+    color: rgb(200, 200, 200);
+    width: 450px;
+    height: 500px;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    border-radius: 10px;
+    padding: 40px 40px 40px 40px;
+}
+
+form h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 35px;
+    color: #07c20a;
+}
+
+form input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    
+}
+
+form input:focus {
+    outline: none;
+}
+
+.btn-signin{
+    background-color: #2f2f2f;
+    font-size: 1rem;
+    color: rgb(239, 239, 239);
+    margin-top: 30px;
+    transition: all 0.75s;
+    text-align: center;
+    width:100%;
+
+}
+
+.btn-signin:hover {
+    color: #c0c0c0;
+}
+
+.container2{
+    background-color: #000000;
+    color: rgb(247, 247, 247);
+    width: 450px;
+    height: 500px;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    border-radius: 10px;
+    padding: 40px 40px 40px 40px;
+}
+.popular-artist .artist-container .col > p{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+}
+
+.search-box {
+    width: 300px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.search-button {
+    padding: 10px 15px;
+    background-color: #262626;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 5px;
+    transition: background-color 0.3s;
+}
+
+.search-box {
+    width: 300px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    height: 50px;
+}
+
+.search-button {
+    padding: 10px 10px;
+    background-color: #000000;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 5px;
+    transition: background-color 0.3s;
+}
+
+.search-button:hover {
+    background-color: #232323;
+}
+
+.explore {
+    background-color: #000000;
+    ;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    top: 0;
+}
+
+.explore:hover {
+    background-color: #000000;
+}
+
+.login_singup{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white;
+    text-align: right;
+    margin: 0 15px;
+}
+
+.head {
+    top:30%;
+    position: absolute;
+    right: 25%;
+}
+.login_singup-container{
+    top:30%;
+    position: absolute;
+    right:2%;
+}
+
+.logo{
+    top:20%;
+    left:0;
+    position: absolute;
+    font-size: 1.8rem;
+}
+.popular-artist{
+    height:400px;
+    color:white;
+    background-color: #232323;
+    padding:5px 5px 5px px;
+    
+}
+.card-img-top-arists{
+    width: 200px;
+    border-radius: 50%;
+}
+.call-container{
+    text-align: center;
+}
+.home{
+    top:35%;
+    position:absolute;
+    font-size: 1.5rem;
+}
+.em{
+    text-align: center;
+}
+
+.artist-container{
+    padding:5px;
+}
+.login_page_container{
+    background-color: #7AB2D3;
+    width:100%;
+    height:100%;
+    background-image: url(./images/hinh-nen-thien-nhien-phong-canh-dep-22_043148037.jpg);
+}
+.btn_signin{
+    width:100%;
+}
+.podcast{
+    background-color: #dbdedc;
+    width:100%;
+    height:100%;
+}
+.wxrdie{
+    background-color: rgba(79, 0, 0, 0);
+    height:40px;
+    text-align: center;
+}
+.jank{
+    background-color: rgba(32, 32, 32, 0);
+    text-align: center;
+}
+.mainpodcast_container{
+    padding: 40px 40px 40px 40px;
+}
+
+.center{
+    text-align: center;
+}
+.vuz{
+    width:100%;
+    height:50%;
+    color:white;
+    background-attachment: fixed; 
+    background-size: cover;
+    background-image:url(./images/vu.jpg)
+
+    
+}
+.concert{
+    width:100%;
+    height:100%
+}
+.vuz_container{
+    padding:40px 40px 40px 40px;
+    background-color: #1A1A19;
+    color:white;
+}
+.Wxrdie{
+    width:100%;
+    height:50%;
+    color:white;
+    background-attachment: fixed; 
+    background-size: cover;
+    background-image:url(./images/tom-tat-tieu-su-ve-wxrdie-35express-768x576.jpg)
+    
+}
+.podcast_pic{
+    width:100%;
+    height:70%;
+}
+.btn_wx{
+    width:20%;
+}
+.music_new{
+    width:20%;
+    height:30%;
+}
+.popular_music .music-container .col > p{
+    text-align:center;
+    margin-bottom: 1.5rem;
+    
+}
+.ms{
+    text-decoration: none;
+    color:#000000;
+}
+.vu_of_pod{
+    width:20%;
+}
+.card-img-top-arists-2{
+    width: 200px;
+border-radius: 5px;}
