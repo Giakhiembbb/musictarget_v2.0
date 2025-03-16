@@ -47,8 +47,8 @@ header {
 }
 
 .carousel-item>img {
-    width: 10%;
-    border-radius: 50%;
+    width: 40%;
+    border-radius: 10%;
     margin: 20px;
 }
 
@@ -142,7 +142,7 @@ form input:focus {
     background-color: #000000;
     color: rgb(247, 247, 247);
     width: 450px;
-    height: 500px;
+    height: 700px;
     position: absolute;
     top: 15%;
     left: 35%;
@@ -274,6 +274,7 @@ form input:focus {
     width:100%;
     height:100%;
     background-image: url(./images/hinh-nen-thien-nhien-phong-canh-dep-22_043148037.jpg);
+    background-size: cover;
 }
 .btn_signin{
     width:100%;
