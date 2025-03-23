@@ -47,6 +47,7 @@ header {
 }
 
 .carousel-item>img {
+    height: 200px;
     width: 40%;
     border-radius: 10%;
     margin: 20px;
@@ -251,6 +252,7 @@ form input:focus {
     
 }
 .card-img-top-arists{
+    height: 200px;
     width: 200px;
     border-radius: 50%;
 }
@@ -354,3 +356,8 @@ form input:focus {
 .card-img-top-arists-2{
     width: 200px;
 border-radius: 5px;}
+
+
+.logout{
+    width: 40%;
+}
