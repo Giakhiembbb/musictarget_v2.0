@@ -1,0 +1,132 @@
+[
+    {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "album": "A Night at the Opera",
+        "genre": "Rock",
+        "duration": "5:55",
+        "releaseYear": 1975,
+        "rating": 9.8,
+        "image": "images/Bohemian Rhapsody.jpg"
+    },
+    {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "album": "÷",
+        "genre": "Pop",
+        "duration": "3:53",
+        "releaseYear": 2017,
+        "rating": 9.0,
+        "image": "https://www.iheart.com/artist/ed-sheeran-396790/albums/shape-of-you-49707440/"
+    },
+    {
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "album": "Nevermind",
+        "genre": "Grunge",
+        "duration": "5:01",
+        "releaseYear": 1991,
+        "rating": 9.5,
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"
+    },
+    {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "album": "Thriller",
+        "genre": "Pop",
+        "duration": "4:54",
+        "releaseYear": 1982,
+        "rating": 9.7,
+        "image": "https://www.discogs.com/ja/Michael-Jackson-Billie-Jean/release/216956"
+    },
+    {
+        "title": "Có Chắc Yêu Là Đây",
+        "artist": "Sơn Tùng M-TP",
+        "album": "Single",
+        "genre": "Pop",
+        "duration": "4:05",
+        "releaseYear": 2020,
+        "rating": 9.2,
+        "image": "https://music.apple.com/vn/album/c%C3%B3-ch%E1%BA%AFc-y%C3%AAu-l%C3%A0-%C4%91%C3%A2y-remix-single/1709449068"
+    },
+    {
+        "title": "Hãy Trao Cho Anh",
+        "artist": "Sơn Tùng M-TP",
+        "album": "Single",
+        "genre": "Pop",
+        "duration": "4:15",
+        "releaseYear": 2019,
+        "rating": 9.3,
+        "image": "https://music.apple.com/vn/album/h%C3%A3y-trao-cho-anh-feat-snoop-dogg-single/1708863434"
+    },
+    {
+        "title": "Bước Qua Nhau",
+        "artist": "Vũ.",
+        "album": "Single",
+        "genre": "Indie",
+        "duration": "4:30",
+        "releaseYear": 2021,
+        "rating": 9.4,
+        "image": "https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU"
+    },
+    {
+        "title": "Em Gái Mưa",
+        "artist": "Hương Tràm",
+        "album": "Single",
+        "genre": "Ballad",
+        "duration": "5:20",
+        "releaseYear": 2017,
+        "rating": 9.1,
+        "image": "https://www.youtube.com/watch?v=dAnGmddXEII"
+    },
+    {
+        "title": "Chạy Ngay Đi",
+        "artist": "Sơn Tùng M-TP",
+        "album": "Single",
+        "genre": "Pop",
+        "duration": "4:10",
+        "releaseYear": 2018,
+        "rating": 9.0,
+        "image": "https://music-tw.line.me/album/1986586"
+    },
+    {
+        "title": "Lạc Trôi",
+        "artist": "Sơn Tùng M-TP",
+        "album": "Single",
+        "genre": "Pop",
+        "duration": "4:30",
+        "releaseYear": 2017,
+        "rating": 9.2,
+        "image": "https://www.albumoftheyear.org/album/890584-son-tung-m-tp-lac-troi.php"
+    },
+    {
+        "title": "Tình Yêu Mang Theo",
+        "artist": "Noo Phước Thịnh",
+        "album": "Single",
+        "genre": "Pop",
+        "duration": "4:50",
+        "releaseYear": 2016,
+        "rating": 8.9,
+        "image": "https://www.losslesszone.com/2020/05/minh-vuong-huong-ly-tinh-yeu-mang-theo.html"
+    },
+    {
+        "title": "Từ Đó",
+        "artist": "Phan Mạnh Quỳnh",
+        "album": "Bố Già OST",
+        "genre": "Ballad",
+        "duration": "5:05",
+        "releaseYear": 2020,
+        "rating": 9.3,
+        "image": "https://tinhte.vn/thread/tu-do-lynk-lee-ft-trinh-gia-hung-cover.3052825/"
+    },
+    {
+        "title": "Nơi Này Có Anh",
+        "artist": "Sơn Tùng M-TP",
+        "album": "Single",
+        "genre": "Pop",
+        "duration": "4:06",
+        "releaseYear": 2017,
+        "rating": 9.1,
+        "image": "https://music.apple.com/au/album/n%C6%A1i-n%C3%A0y-c%C3%B3-anh-remix-single/1707214836"
+    }
+]

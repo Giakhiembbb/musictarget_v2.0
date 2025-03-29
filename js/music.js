@@ -1,0 +1,18 @@
+const fetchData = async () => {
+  let response = await fetch("./data.json");
+  let data = await response.json();
+
+  let musicList = document.querySelector("#music-list");
+  musicList.innerHTML = data.map((item) => {
+    return `
+      <div class="music-item">
+        <img src="${item.image}" alt="${item.title}" class="music-image">
+        <h2 class="music-title">${item.title}</h2>
+        <p class="music-artist">${item.artist}</p>
+        <p class="music-album">${item.album}</p>
+      </div>
+    `;
+  }).join("");
+};
+
+fetchData();
