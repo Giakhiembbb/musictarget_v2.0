@@ -1,6 +1,6 @@
 
 .music-detail {
-    background: white;
+    background: #222;
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
@@ -9,29 +9,38 @@
     align-items: center;
     gap: 30px;
     margin: 50px auto;
+    color: lightblue;
 }
+
 .music-image {
     width: 45%;
     height: 400px;
     object-fit: cover;
     border-radius: 15px;
 }
+
 .music-info {
     width: 55%;
 }
+
 .music-title {
     font-size: 32px;
     font-weight: bold;
     margin-bottom: 15px;
 }
-.music-artist, .music-album, .music-genre, .music-duration, .music-year, .music-rating {
+
+.music-artist,
+.music-album,
+.music-genre,
+.music-duration,
+.music-year,
+.music-rating {
     font-size: 18px;
-    color: #333;
+    color: #fff;
     margin-bottom: 10px;
 }
+
 audio {
     width: 100%;
     margin-top: 15px;
 }
-
-

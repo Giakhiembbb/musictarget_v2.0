@@ -16,7 +16,9 @@ const getMusicDetail = async () => {
         document.getElementById("song-year").textContent = `Release Year: ${musicData.releaseYear}`;
         document.getElementById("song-rating").textContent = `Rating: ${musicData.rating}`;
         document.getElementById("song-image").src = `${musicData.image}`;
-        document.getElementById("song-audio").src = `../${musicData.audio}`;
+        const audioPlayer = document.getElementById("audio-player");
+        audioPlayer.src = `../${musicData.audio}`;
+        // audioPlayer.load();  // Load lại nguồn
     } else {
         document.getElementById("detailContainer").innerHTML = "<p>Music not found.</p>";
     }
