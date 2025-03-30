@@ -1,5 +1,6 @@
 [
-    {
+    {   
+        "id":1,
         "title": "Bohemian Rhapsody",
         "artist": "Queen",
         "album": "A Night at the Opera",
@@ -7,9 +8,11 @@
         "duration": "5:55",
         "releaseYear": 1975,
         "rating": 9.8,
-        "image": "images/Bohemian Rhapsody.jpg"
+        "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_FMjpg_UX1000_.jpg",
+        "audio": "audio/Bohemian Rhapsody.mp3"
     },
-    {
+    {      
+        "id":2,
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "album": "÷",
@@ -17,9 +20,11 @@
         "duration": "3:53",
         "releaseYear": 2017,
         "rating": 9.0,
-        "image": "https://www.iheart.com/artist/ed-sheeran-396790/albums/shape-of-you-49707440/"
+        "image": "https://i.ytimg.com/vi/JGwWNGJdvx8/sddefault.jpg",
+        "audio": "audio/"
     },
-    {
+    {   
+        "id":3,
         "title": "Smells Like Teen Spirit",
         "artist": "Nirvana",
         "album": "Nevermind",
@@ -27,9 +32,11 @@
         "duration": "5:01",
         "releaseYear": 1991,
         "rating": 9.5,
-        "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+        "audio": "audio/"
     },
-    {
+    {   
+        "id":4,
         "title": "Billie Jean",
         "artist": "Michael Jackson",
         "album": "Thriller",
@@ -37,9 +44,10 @@
         "duration": "4:54",
         "releaseYear": 1982,
         "rating": 9.7,
-        "image": "https://www.discogs.com/ja/Michael-Jackson-Billie-Jean/release/216956"
+        "image": "https://upload.wikimedia.org/wikipedia/vi/0/0e/Billie_Jean.jpg",
+        "audio": "audio/"
     },
-    {
+    {    "id":5,
         "title": "Có Chắc Yêu Là Đây",
         "artist": "Sơn Tùng M-TP",
         "album": "Single",
@@ -47,9 +55,11 @@
         "duration": "4:05",
         "releaseYear": 2020,
         "rating": 9.2,
-        "image": "https://music.apple.com/vn/album/c%C3%B3-ch%E1%BA%AFc-y%C3%AAu-l%C3%A0-%C4%91%C3%A2y-remix-single/1709449068"
+        "image": "https://nhachot.vn/wp-content/uploads/2020/06/loi-bai-hat-co-chac-yeu-la-day-son-tung-m-tp-lyrics-kem-hop-am.jpg",
+        "audio": "audio/CoChacYeuLaDayOnionn.mp3"
     },
-    {
+    {   
+        "id":6,
         "title": "Hãy Trao Cho Anh",
         "artist": "Sơn Tùng M-TP",
         "album": "Single",
@@ -57,9 +67,11 @@
         "duration": "4:15",
         "releaseYear": 2019,
         "rating": 9.3,
-        "image": "https://music.apple.com/vn/album/h%C3%A3y-trao-cho-anh-feat-snoop-dogg-single/1708863434"
+        "image": "https://th.bing.com/th/id/OIP.YZ9i9ntZqtxdW7nb_yRCngHaHa?w=173&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "audio": "audio/NoiNayCoAnh-SonTungMTP.mp3"
     },
-    {
+    {   
+        "id":7,
         "title": "Bước Qua Nhau",
         "artist": "Vũ.",
         "album": "Single",
@@ -67,9 +79,11 @@
         "duration": "4:30",
         "releaseYear": 2021,
         "rating": 9.4,
-        "image": "https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU"
+        "image": "https://th.bing.com/th/id/OIP.ppHWPzl7bY8TDwLdyC2fGQHaEK?w=312&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "audio": "audio/buocquanhau.mp3"
     },
-    {
+    {   
+        "id":8,
         "title": "Em Gái Mưa",
         "artist": "Hương Tràm",
         "album": "Single",
@@ -77,9 +91,11 @@
         "duration": "5:20",
         "releaseYear": 2017,
         "rating": 9.1,
-        "image": "https://www.youtube.com/watch?v=dAnGmddXEII"
+        "image": "https://th.bing.com/th/id/OIP.agBEa5TR08Q71msafLKRigHaEK?w=275&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "audio": "audio/emgai.mp3"
     },
-    {
+    {   
+        "id":9,
         "title": "Chạy Ngay Đi",
         "artist": "Sơn Tùng M-TP",
         "album": "Single",
@@ -87,9 +103,11 @@
         "duration": "4:10",
         "releaseYear": 2018,
         "rating": 9.0,
-        "image": "https://music-tw.line.me/album/1986586"
+        "image": "https://th.bing.com/th/id/OIP.pzW7Y7t--f0VspNEP3dCrgHaEK?w=307&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "audio": "audio/ChayNgayDi-SonTungMTP-5468704.mp3"
     },
-    {
+    {   
+        "id":10,
         "title": "Lạc Trôi",
         "artist": "Sơn Tùng M-TP",
         "album": "Single",
@@ -97,9 +115,11 @@
         "duration": "4:30",
         "releaseYear": 2017,
         "rating": 9.2,
-        "image": "https://www.albumoftheyear.org/album/890584-son-tung-m-tp-lac-troi.php"
+        "image": "https://th.bing.com/th/id/OIP.E_LpcKI-b_oxRPwot7ITaAHaEK?w=333&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "audio": "audio/LacTroi-SonTungMTP-4725907.mp3"
     },
-    {
+    {   
+        "id":11,
         "title": "Tình Yêu Mang Theo",
         "artist": "Noo Phước Thịnh",
         "album": "Single",
@@ -107,9 +127,11 @@
         "duration": "4:50",
         "releaseYear": 2016,
         "rating": 8.9,
-        "image": "https://www.losslesszone.com/2020/05/minh-vuong-huong-ly-tinh-yeu-mang-theo.html"
+        "image": "https://th.bing.com/th/id/OIP.F5TglG5qh4yB8vZWNb3TiQHaEK?w=304&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "audio": "audio/"
     },
-    {
+    {   
+        "id":12,
         "title": "Từ Đó",
         "artist": "Phan Mạnh Quỳnh",
         "album": "Bố Già OST",
@@ -117,9 +139,11 @@
         "duration": "5:05",
         "releaseYear": 2020,
         "rating": 9.3,
-        "image": "https://tinhte.vn/thread/tu-do-lynk-lee-ft-trinh-gia-hung-cover.3052825/"
+        "image": "https://i.ytimg.com/vi/Isni9sSekWo/maxresdefault.jpg",
+        "audio": "audio/TuDoMatBiecOst-PhanManhQuynh-6182376.mp3"
     },
-    {
+    {   
+        "id":13,
         "title": "Nơi Này Có Anh",
         "artist": "Sơn Tùng M-TP",
         "album": "Single",
@@ -127,6 +151,7 @@
         "duration": "4:06",
         "releaseYear": 2017,
         "rating": 9.1,
-        "image": "https://music.apple.com/au/album/n%C6%A1i-n%C3%A0y-c%C3%B3-anh-remix-single/1707214836"
+        "image": "https://th.bing.com/th/id/OIP.R_E4wsUmzOButIf0GXAX0gHaEK?w=290&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "audio": "audio/NoiNayCoAnh-SonTungMTP.mp3"
     }
 ]
