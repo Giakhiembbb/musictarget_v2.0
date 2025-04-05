@@ -363,9 +363,10 @@ form input:focus {
     height: 70%;
 }
 
-.btn_wx {
-    width: 20%;
-}
+/* .btn_wx {
+    width: 70%;
+    height:100%;
+} */
 
 .music_new {
     width: 20%;
@@ -399,4 +400,33 @@ form input:focus {
 
 .podcast_container{
     padding: 20px;
+}
+
+
+.target{
+    text-decoration: none;
+    color:#07c20a
+}
+
+
+
+.music-item {
+    text-align: center;
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-decoration: none;
+    background-color: #222;
+    color: lightblue;
+}
+
+.comeback{
+    text-decoration: none;
+    color:white
 }
